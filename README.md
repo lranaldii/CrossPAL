@@ -1,4 +1,4 @@
-# Empowering Multi-step Reasoning across Languages via Program-Aided Language Models
+# Cross-lingual Program-Aided Language Models
 
 This repository provides a the scripts for reproducing tha experiments presented in the paper [Empowering Multi-step Reasoning across Languages via Program-Aided Language Models](https://aclanthology.org/2024.emnlp-main.678.pdf)
 
